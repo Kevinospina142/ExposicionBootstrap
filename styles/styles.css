@@ -1,0 +1,62 @@
+body{
+    background-image: url(../assets/img/fondo4.jpg);
+}
+#navbar{
+    background-color: #7952B3;
+}
+/*navbar*/
+#link{
+    color:white;
+}
+#Menu{
+    color:white;
+}
+#table1{
+    background-color: #7952B3;
+    color: white;
+}
+#table2{
+    background-color: #5c3e88;
+    color: white;
+}
+p{
+    font-size: 20px;
+}
+li{
+    font-size: 20px;
+}
+
+img{
+    padding-top: 20%;
+    padding-left: 20%;
+}
+#indice{
+    color: white;
+}
+#text{
+    color: white;
+}
+#Historia{
+    color: white;
+}
+#Que{
+    color: white;
+}
+#Elementos{
+    color: white;
+}
+#VentyDesv{
+    color: white;
+}
+#Nuevos{
+    color: white;
+}
+#Aplicación{
+    color: white;
+}
+#Ejemplo{
+    color: white;
+}
+#titulo{
+    color: white;
+}
